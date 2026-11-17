@@ -1,0 +1,14 @@
+[
+  {"nome": "Pizza Margherita", "categoria": "pizza", "preco": 39.9, "vegetariano": true, "tags": ["queijo", "tomate", "classico"], "descricao": "Molho de tomate, mussarela e manjericao."},
+  {"nome": "Pizza Calabresa", "categoria": "pizza", "preco": 42.0, "vegetariano": false, "tags": ["calabresa", "cebola", "classico"], "descricao": "Calabresa fatiada com cebola e mussarela."},
+  {"nome": "Hamburguer Artesanal", "categoria": "lanche", "preco": 29.9, "vegetariano": false, "tags": ["carne", "cheddar", "bacon"], "descricao": "Blend bovino, cheddar, bacon e pao brioche."},
+  {"nome": "Hamburguer de Grao-de-Bico", "categoria": "lanche", "preco": 27.5, "vegetariano": true, "tags": ["vegano", "leve", "grao-de-bico"], "descricao": "Hamburguer vegetal com alface, tomate e molho especial."},
+  {"nome": "Sushi Combo 20 pecas", "categoria": "japonesa", "preco": 64.9, "vegetariano": false, "tags": ["peixe", "salmao", "arroz"], "descricao": "Uramakis, niguiris e sashimis variados."},
+  {"nome": "Temaki de Salmao", "categoria": "japonesa", "preco": 32.0, "vegetariano": false, "tags": ["salmao", "cream-cheese", "alga"], "descricao": "Cone de alga com salmao fresco e cream cheese."},
+  {"nome": "Acai 500ml", "categoria": "sobremesa", "preco": 22.0, "vegetariano": true, "tags": ["doce", "frutas", "granola", "refrescante"], "descricao": "Acai com banana, granola e leite condensado."},
+  {"nome": "Salada Caesar com Frango", "categoria": "saudavel", "preco": 31.0, "vegetariano": false, "tags": ["frango", "leve", "salada"], "descricao": "Alface, frango grelhado, croutons e parmesao."},
+  {"nome": "Bowl Vegano de Quinoa", "categoria": "saudavel", "preco": 34.5, "vegetariano": true, "tags": ["vegano", "quinoa", "leve", "legumes"], "descricao": "Quinoa, legumes assados, homus e tahine."},
+  {"nome": "Feijoada Completa", "categoria": "brasileira", "preco": 45.0, "vegetariano": false, "tags": ["feijao", "carne", "farofa", "tradicional"], "descricao": "Feijao preto, carnes variadas, arroz, couve e farofa."},
+  {"nome": "Moqueca de Peixe", "categoria": "brasileira", "preco": 58.0, "vegetariano": false, "tags": ["peixe", "dende", "tradicional"], "descricao": "Peixe cozido com leite de coco, dende e pimentoes."},
+  {"nome": "Tapioca de Queijo Coalho", "categoria": "brasileira", "preco": 14.0, "vegetariano": true, "tags": ["queijo", "tapioca", "lanche-rapido"], "descricao": "Tapioca recheada com queijo coalho."}
+]
